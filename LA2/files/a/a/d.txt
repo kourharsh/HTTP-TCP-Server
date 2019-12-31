@@ -1,0 +1,3 @@
+this is D text File Inside A SubDirectory
+client000write
+client222write
